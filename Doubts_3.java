@@ -1,4 +1,4 @@
-public class Doubt_3 {
+public class Doubts_3 {
   public static void main(String[] args) {
     int n = 4;
 
