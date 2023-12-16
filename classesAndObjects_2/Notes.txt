@@ -1,0 +1,14 @@
+// OOPS (Object Oriented Programming)
+
+// Classes
+// Object
+
+// 1. POLYMORPHISM (Poly -> Many, Morphism -> Forms)
+// --> Compile time Polymorphism (Method Overloading)
+// --> Run Time Polymorphism (Method Overriding)
+
+// 2. INHERITANCE
+
+// 3. ENCAPSULATION
+
+// 4. ABSTRACTION
